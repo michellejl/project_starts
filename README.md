@@ -1,6 +1,6 @@
 # project starts
 
-Collection of various files for starting different projects I commonly work on with the base code that I don't want to type in every single time.
+Collection of various files for starting different projects I commonly work on with the base code so that I don't have to type in every single time.
 
 Projects Included:
-* WordPress Child Theme --> Base required files for creating a child theme
+* WordPress Child Theme --> Base required files for creating a child theme. Includes styles.css and functions.php. The functions.php file includes enqueuing of the font-awesome styles.
