@@ -12,3 +12,7 @@ ________
 ### SCSS
 * Base file / folder structure for a sass project.
 * Created following an outline used by underscores wordpress starter theme
+________
+### HTML
+* Base files for a simple HTML site.
+* jQuery already linked.
