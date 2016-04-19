@@ -4,15 +4,15 @@
 
 ## Projects Included:
 
-### WordPress Child Theme
+#### WordPress Child Theme
 * Base required files for creating a child theme. 
 * Includes styles.css and functions.php. 
     * The functions.php file includes enqueuing of the font-awesome styles.
 
-### SCSS
+#### SCSS
 * Base file / folder structure for a sass project.
 * Created following an outline used by underscores wordpress starter theme
 
-### HTML
+#### HTML
 * Base files for a simple HTML site.
 * jQuery already linked.
